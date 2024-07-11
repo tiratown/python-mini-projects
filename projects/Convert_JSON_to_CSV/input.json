@@ -1,12 +1,57 @@
 [
   {
-    "Name": "Akash",
-    "age": 26,
-    "birthyear": "1994"
+    "id": 186872,
+    "area_pid": 28,
+    "area_id": 327,
+    "bankname": "中国工商银行股份有限公司临夏东城支行",
+    "hanghao": "102836000059",
+    "bank_id": 1,
+    "tel": "0930-6219403",
+    "address": "",
+    "create_time": "2023-10-08 15:28:26"
   },
   {
-    "Name": "Abhay",
-    "age": 34,
-    "birthyear": "1986"
+    "id": 186853,
+    "area_pid": 27,
+    "area_id": 311,
+    "bankname": "中国工商银行股份有限公司平利县支行",
+    "hanghao": "102801770121",
+    "bank_id": 1,
+    "tel": "0915-2071800",
+    "address": "",
+    "create_time": "2023-09-19 10:47:05"
+  },
+  {
+    "id": 186850,
+    "area_pid": 27,
+    "area_id": 309,
+    "bankname": "中国工商银行股份有限公司渭南高新协同创新区支行",
+    "hanghao": "102797005731",
+    "bank_id": 1,
+    "tel": "0913-2073771",
+    "address": "",
+    "create_time": "2023-09-19 10:47:03"
+  },
+  {
+    "id": 186827,
+    "area_pid": 25,
+    "area_id": 364,
+    "bankname": "中国工商银行股份有限公司宾川支行",
+    "hanghao": "102751400011",
+    "bank_id": 1,
+    "tel": "0872-7144766",
+    "address": "",
+    "create_time": "2023-08-08 14:48:19"
+  },
+  {
+    "id": 186821,
+    "area_pid": 25,
+    "area_id": 297,
+    "bankname": "中国工商银行股份有限公司巧家支行",
+    "hanghao": "102734300139",
+    "bank_id": 1,
+    "tel": "0870-8898998",
+    "address": "",
+    "create_time": "2023-08-08 14:48:17"
   }
 ]
